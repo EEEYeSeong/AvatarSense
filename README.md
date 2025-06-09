@@ -8,6 +8,10 @@
 
 User-friendly VR tracking device based on Slime VR
 
+## Reason for starting the project
+
+I started this project to try out full body tracking with Oculus Quest 2 because I was intrigued when I saw some people doing full body tracking.
+
 ## Reason Kicad project file is missing
 
 Excluded due to licensing issues with the library used in the design
