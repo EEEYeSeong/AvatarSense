@@ -11,7 +11,7 @@ created_at: "2024-06-08"
 
 As someone who uses Oculus Quest 2 VR well, I wanted full tracking in VR (normally VR only recognizes the head and hands, but full tracking refers to recognizing the legs and other parts as well).
 
-After searching for related materials, I came across an open source VR tracker called SlimeVR.
+After searching for related infos, I came across an open source VR tracker called SlimeVR.
 
 Search for related information (including some Korean communities)<br>
 https://docs.slimevr.dev/diy/index.html<br>
@@ -103,10 +103,47 @@ http://icbanq.com/P012000307
 
 Afterwards, I accepted the feedback I received, modified the circuit diagram, and completed the main tracker.
 
-![Main tracker PCB](assets/sch_1.png)
+![Main tracker Sch](assets/sch_1.png)
 [Pic4] Main tracker schematic
 
 ![Main tracker PCB](assets/pcb_1.png)
 [Pic5] Main tracker PCB
 
 **Total time spent: 11.5h**
+
+# June 9th: Sch / PCB Modification and Case work
+
+I remembered that I forgot to add the power switch before I went to bed.
+
+So I modified the schematic and PCB like this:
+
+![Main tracker Sch](assets/sch_2.png)
+[Pic1] Main tracker schematic
+
+![Main tracker PCB](assets/pcb_2.png)
+[Pic2] Main tracker PCB
+
+And to finalize the design of the sub tracker, I drew the connection between the two trackers as follows:
+
+![usb-c conn sch](assets/sch_3.png)
+[Pic3] usb-c conn schematic
+
+I have finished designing the sub tracker circuit.
+
+![Sub tracker Sch](assets/sch_4.png)
+[Pic4] Sub tracker schematic
+
+![Sub tracker PCB](assets/pcb_3.png)
+[Pic5] Sub tracker PCB
+
+After that, I also completed the case work for the PCB, battery, and strap.
+
+![Main tracker 3D model](assets/cad_1.png)
+[Pic6] Main tracker 3D model
+
+![Sub tracker 3D model](assets/cad_2.png)
+[Pic7] Sub tracker 3D model
+
+For the parts BOM, I used Kicad BOM export to create the list of parts used on the PCB, and wrote the other necessary items myself.
+
+**Total time spent: 4.5h**
