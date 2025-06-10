@@ -6,7 +6,7 @@
 ![](assets/cad_1.png)
 ![](assets/cad_2.png)
 
-User-friendly VR tracking device based on Slime VR
+User-friendly VR tracking device based on Slime VR (but more compact!)
 
 ## Reason for starting the project
 
