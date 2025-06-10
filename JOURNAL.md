@@ -5,7 +5,7 @@ description: "User-friendly VR tracking device based on Slime VR"
 created_at: "2024-06-08"
 ---
 
-**Total time taken for all journeys: 11.5h**
+**Total time taken for all journeys: 18.5h**
 
 # June 8th: Research & PCB
 
@@ -147,3 +147,11 @@ After that, I also completed the case work for the PCB, battery, and strap.
 For the parts BOM, I used Kicad BOM export to create the list of parts used on the PCB, and wrote the other necessary items myself.
 
 **Total time spent: 4.5h**
+
+# June 10th: BOM
+
+Before submission, I refined and organized my BOM file.
+
+However, because there were issues with the delivery and price of several parts, I had to change some parts or purchase them at my own expense.
+
+**Total time spent: 2.5h**
