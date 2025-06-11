@@ -8,6 +8,8 @@
 
 User-friendly VR tracking device based on Slime VR (but more compact!)
 
+While using Oculus Quest 2, I felt the need for full-body tracking, so I started a project to create a tracker based on SlimeVR to implement it myself. In order to improve the inconvenience of existing DIY trackers, I designed the connection between trackers to be detachable with a USB-C to C cable for easy storage and maintenance. For the sensor, I chose ICM-45686 after considering performance and price by referring to the SlimeVR documentation, and designed the circuit diagram and PCB based on it. I modified and optimized the circuit based on feedback, and completed the case design with 3D modeling.
+
 ## Reason for starting the project
 
 I started this project to try out full body tracking with Oculus Quest 2 because I was intrigued when I saw some people doing full body tracking.
