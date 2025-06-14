@@ -5,7 +5,7 @@ description: "User-friendly VR tracking device based on Slime VR"
 created_at: "2024-06-08"
 ---
 
-**Total time taken for all journeys: 18.5h**
+**Total time taken for all journeys: 19.5h**
 
 # June 8th: Research & PCB
 
@@ -155,3 +155,9 @@ Before submission, I refined and organized my BOM file.
 However, because there were issues with the delivery and price of several parts, I had to change some parts or purchase them at my own expense.
 
 **Total time spent: 2.5h**
+
+# June 11th: Modify README.md
+
+My README.md was rejected for review because it lacked a description of the project, so I improved it by adding more details about the project progress.
+
+**Total time spent: 1h**
